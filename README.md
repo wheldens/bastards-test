@@ -2,7 +2,13 @@
 ## Software Bastards Test (validate object)
 
 
-Install the dependencies...
+navigate to project
+
+```bash
+cd bastards
+```
+
+install the dependencies...
 
 ```bash
 npm install
@@ -14,7 +20,7 @@ npm install
 npm run dev
 ```
 
-navigate to localhost
+open the project in your browser
 
 ```bash
 http://localhost:5000
